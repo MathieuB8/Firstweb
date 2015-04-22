@@ -1,0 +1,15 @@
+!!!
+%link{rel: "stylesheet", type: "text/css", href: "/css/style.css"}
+%html
+  %body
+    %h1 Titre
+    %p Blehelblehl.
+    %table{:style => "width:100%"}
+      %tr
+        %td Testingverif
+        %td Hi dude
+        %td heuu
+      %tr
+        %td HOy
+        %td Wut wut
+      %img{:alt => "descript?", :height => "142", :src => "Shin.png", :width => "200"}/

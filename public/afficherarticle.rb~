@@ -1,0 +1,8 @@
+for n in {1..8}
+do
+	nomfichier = "#{n}.txt"
+	file = File.open{nomfichier,"r"}
+	
+
+
+end

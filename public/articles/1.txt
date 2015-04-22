@@ -1,0 +1,12 @@
+Titre1
+Créer une page qui contiendra tous les articles.
+Elle devra être accessible depuis la racine du site : /
+Créer un répertoire articles     à la racine de votre projet.
+Créer des 8 fichiers textes qu'on nommera 1.txt,     2.txt, 3.txt,     …, 8.txt.
+Ces fichiers représenteront les différents articles.
+Chacun de ces fichiers comprend un titre et un corps de texte.
+Le titre sera représenté par la première ligne du fichier. Les autres lignes constitueront le corps de texte.    
+Récupérer le contenu de chacun de vos articles depuis le fichier myapp.rb.
+Afficher la liste des articles dans l'ordre décroissant (le fichier 8.txt est     considéré comme le dernier article).
+Pour chaque article, extraire le titre et le corps de l'article.
+
